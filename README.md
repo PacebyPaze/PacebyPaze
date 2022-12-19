@@ -4,6 +4,7 @@
 - 💞️ Pace by Paze is also a platform to connect people who are willing to work or assist others in their vicinity at their leisure for small tokens
 - 📫 In any event of payment not received or any problems encountered on Pace by Paze:
 Contact me, Carmen Yak at pacebypaze@gmail.com and I will try my best to resolve any issues
+- Feel free to contact me regarding app issues, general feedback, and feature enhancement requests.
 
 <!---
 PacebyPaze/PacebyPaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
